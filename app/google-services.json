@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976558248035",
+    "project_id": "bd-pruebas-f96ac",
+    "storage_bucket": "bd-pruebas-f96ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976558248035:android:e1568a545486c235a86856",
+        "android_client_info": {
+          "package_name": "com.example.app_pruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976558248035-b1ivnk185lot5ibpqc29q5dh664oc4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt9ceMNFAr46CwF_BnoLn5LVQ_67gFFZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976558248035-b1ivnk185lot5ibpqc29q5dh664oc4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
